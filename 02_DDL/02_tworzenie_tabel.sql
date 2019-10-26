@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS DDL.02_table (
+  id INT64,
+  name STRING,
+  has_married BOOL,
+  date_of_birth DATE,
+  insert_timestamp TIMESTAMP
+);
+
+INSERT INTO DDL.02_table VALUES (1, 'MARK', true, '1990-10-01', CURRENT_TIMESTAMP());
+INSERT INTO DDL.02_table VALUES (2, 'TOM', true, '1992-10-01', CURRENT_TIMESTAMP());
+INSERT INTO DDL.02_table VALUES (3, 'JOHN', true, '1989-10-01', CURRENT_TIMESTAMP());
+
+SELECT * FROM DDL.02_table;
