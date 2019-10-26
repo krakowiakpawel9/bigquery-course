@@ -1,0 +1,5 @@
+var1,var2,var3,var4
+0,True,T,True
+1,False,F,True
+0,False,F,False
+1,True,F,False
