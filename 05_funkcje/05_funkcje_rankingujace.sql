@@ -1,4 +1,7 @@
-SELECT 
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
+SELECT
   *,
   RANK() OVER (ORDER BY rating) AS ranking
 FROM 

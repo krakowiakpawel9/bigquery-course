@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 CREATE TABLE IF NOT EXISTS DQL.employees (id STRING, emp_name STRING, salary INT64);
 
 INSERT INTO DQL.employees VALUES ('001', 'James', 4000);

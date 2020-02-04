@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- Praca z tablicami
 CREATE TABLE functions.arrays2 (id INT64, expenses ARRAY<FLOAT64>);
 

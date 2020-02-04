@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- IF(condition, true_result, false_result)
 SELECT * FROM functions.tips;
 

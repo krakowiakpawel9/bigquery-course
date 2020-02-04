@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- DML - Data Manipulation Language
 -- Umożliwia takie operacje jak UPDATE, INSERT, DELETE
 

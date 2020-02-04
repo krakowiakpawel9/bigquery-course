@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 /*
 DDL - Data Definition Language - pozwala tworzyć i modfikować zasoby przy pomocy standardowego
 języka SQL, np:

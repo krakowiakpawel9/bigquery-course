@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- Statystyczne funkcje agregujące:
   
 -- CORR(X1, X2) - współczynnik korelacji, ignoruje pary, gdzie występuje minimum jedna wartość NULL

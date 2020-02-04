@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- Funkcja ROW_NUMBER()
 SELECT *, ROW_NUMBER() OVER (ORDER BY total_bill) AS row_num FROM functions.tips;
 

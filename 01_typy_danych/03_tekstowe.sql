@@ -1,6 +1,9 @@
-  # Tekstowy typ danych w BigQuery:
-  #  - typ tesktowy: STRING:
-  #     - łańcuch znaków o dowolnej długości, domyślne kodowanie UTF-8
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
+-- Tekstowy typ danych w BigQuery:
+--  - typ tesktowy: STRING:
+--    - łańcuch znaków o dowolnej długości, domyślne kodowanie UTF-8
 SELECT
   *
 FROM

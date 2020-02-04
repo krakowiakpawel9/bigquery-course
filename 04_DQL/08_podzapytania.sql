@@ -1,4 +1,7 @@
-SELECT bike_id, duration FROM 
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
+SELECT bike_id, duration FROM
 (SELECT rental_id, bike_id, duration FROM `bigquery-public-data.london_bicycles.cycle_hire` LIMIT 1000);
 
 SELECT 

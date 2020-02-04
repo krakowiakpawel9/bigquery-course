@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- Praca z tablicami
 CREATE TABLE functions.arrays (id INT64, language ARRAY<STRING>);
 

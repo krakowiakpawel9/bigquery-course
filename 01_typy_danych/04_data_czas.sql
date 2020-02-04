@@ -1,4 +1,7 @@
-  /*
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
+/*
 data w BigQuery:
   
  - typ daty: DATE:

@@ -1,4 +1,7 @@
--- SELECT 
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
+-- SELECT
 SELECT 3;
 SELECT 3 AS number;
 SELECT 'python' AS language_;

@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- CAST(expression AS typename)
 SELECT * FROM `bigquery-course-257019.functions.people`;
 

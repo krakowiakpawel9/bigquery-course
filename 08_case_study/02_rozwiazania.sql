@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- 1. Wybierz 5 pierwszych wierszy z tabeli images ze zbioru open_images.
 SELECT * FROM `bigquery-public-data.open_images.images` LIMIT 5;
 

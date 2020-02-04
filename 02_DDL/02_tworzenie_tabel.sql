@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 CREATE TABLE IF NOT EXISTS DDL.02_table (
   id INT64,
   name STRING,

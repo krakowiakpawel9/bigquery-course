@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- jedna zmienna
 CREATE FUNCTION functions.multiply_by_5(x INT64) AS (x * 5);
 

@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- FIRST_VALUE() - zwraca pierwszą wartość w bieżącym oknie
 -- FIRST_VALUE (value_expression [{RESPECT | IGNORE} NULLS])
 SELECT * FROM functions.tips;

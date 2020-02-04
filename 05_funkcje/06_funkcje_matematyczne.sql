@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 CREATE OR REPLACE TABLE functions.movies (
   id STRING NOT NULL,
   movie_name STRING,

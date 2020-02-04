@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 SELECT * FROM `bigquery-course-257019.DQL.bike`;
 SELECT * FROM `bigquery-course-257019.DQL.bike` ORDER BY bike_id;
 SELECT * FROM `bigquery-course-257019.DQL.bike` ORDER BY bike_id ASC;

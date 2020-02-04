@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 CREATE TEMP TABLE temp_table (
   id STRING,
   age INT64,

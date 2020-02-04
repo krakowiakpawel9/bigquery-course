@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- COALESCE(expr1, ..., exprN)
 
 CREATE OR REPLACE TABLE functions.coal (

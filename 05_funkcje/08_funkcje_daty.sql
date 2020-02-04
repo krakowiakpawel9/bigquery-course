@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- Funkcje daty
   
 -- CURRENT_DATE([time_zone]) - zwraca obecną datę, funkcja przyjmuje opcjonalny parametr time_zone reprezentujący strefę czasową. 

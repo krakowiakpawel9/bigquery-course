@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- Funkcje daty i czasu
   
 -- CURRENT_DATETIME([time_zone]) - zwraca datę i czas, domyślnie UTC

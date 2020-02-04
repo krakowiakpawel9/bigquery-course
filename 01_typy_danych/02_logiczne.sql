@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 -- BOOLEAN:
 --  - TRUE
 --  - FALSE

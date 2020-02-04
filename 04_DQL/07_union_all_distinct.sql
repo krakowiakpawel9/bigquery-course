@@ -1,3 +1,6 @@
+-- @author: krakowiakpawel9@gmail.com
+-- @site: e-smartdata.org
+
 CREATE TABLE DQL.01_tab (
   id STRING NOT NULL,
   age INT64,
